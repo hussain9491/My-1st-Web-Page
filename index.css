@@ -1,0 +1,26 @@
+div img {
+    width: 1400px;
+    height: 600px;
+    border: 1px;
+}
+
+
+ button{
+
+
+    
+    background-color: rgb(56, 57, 110);
+    color: rgb(205, 202, 202);
+    border: 2px;
+    border-radius: 3px;
+    padding: 2px;
+    transition: 0.30s;
+}
+
+button:hover{
+    cursor: pointer;
+     opacity: 0.6;
+}
+button:active{
+opacity: 0.4;
+} 
